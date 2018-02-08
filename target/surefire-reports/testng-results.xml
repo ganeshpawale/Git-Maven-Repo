@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Maven Suite" duration-ms="20486" started-at="2018-02-08T12:43:08Z" finished-at="2018-02-08T12:43:29Z">
+    <groups>
+    </groups>
+    <test name="Test Maven Testing" duration-ms="20486" started-at="2018-02-08T12:43:08Z" finished-at="2018-02-08T12:43:29Z">
+      <class name="Maven_Project_01.Maven_Demo.MavenTest">
+        <test-method status="PASS" signature="add_1()[pri:1, instance:Maven_Project_01.Maven_Demo.MavenTest@d4b411]" name="add_1" duration-ms="4" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_1 -->
+        <test-method status="PASS" signature="sub_2()[pri:2, instance:Maven_Project_01.Maven_Demo.MavenTest@d4b411]" name="sub_2" duration-ms="0" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub_2 -->
+        <test-method status="PASS" signature="multi_3()[pri:3, instance:Maven_Project_01.Maven_Demo.MavenTest@d4b411]" name="multi_3" duration-ms="0" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi_3 -->
+        <test-method status="PASS" signature="div_4()[pri:4, instance:Maven_Project_01.Maven_Demo.MavenTest@d4b411]" name="div_4" duration-ms="0" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div_4 -->
+        <test-method status="PASS" signature="div_5()[pri:5, instance:Maven_Project_01.Maven_Demo.MavenTest@d4b411]" name="div_5" duration-ms="1" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div_5 -->
+      </class> <!-- Maven_Project_01.Maven_Demo.MavenTest -->
+      <class name="Maven_Project_01.Maven_Demo.Selenium_Test">
+        <test-method status="PASS" signature="tc_01()[pri:0, instance:Maven_Project_01.Maven_Demo.Selenium_Test@79e32f]" name="tc_01" duration-ms="20431" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+      </class> <!-- Maven_Project_01.Maven_Demo.Selenium_Test -->
+      <class name="Maven_Project_01.Maven_Demo.Demo_Test">
+        <test-method status="PASS" signature="demo()[pri:0, instance:Maven_Project_01.Maven_Demo.Demo_Test@422e25]" name="demo" duration-ms="17" started-at="2018-02-08T18:13:08Z" finished-at="2018-02-08T18:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Maven_Project_01.Maven_Demo.Demo_Test -->
+    </test> <!-- Test Maven Testing -->
+  </suite> <!-- Test Maven Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Maven_Project_01.Maven_Demo.MavenTest"/>
+      <class name="Maven_Project_01.Maven_Demo.Demo_Test"/>
+      <class name="Maven_Project_01.Maven_Demo.Selenium_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
