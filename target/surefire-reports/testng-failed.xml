@@ -6,6 +6,7 @@
       <package name="Maven_Project_01.Maven_Demo.*"/>
     </packages>
     <classes>
+      <class name="Maven_Project_01.Maven_Demo.Demo"/>
       <class name="Maven_Project_01.Maven_Demo.Demo_Test"/>
       <class name="Maven_Project_01.Maven_Demo.MavenTest"/>
       <class name="Maven_Project_01.Maven_Demo.Selenium_Test"/>
