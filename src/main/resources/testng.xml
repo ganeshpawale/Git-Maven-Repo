@@ -5,7 +5,5 @@
 		<packages>
 			<package name="Maven_Project_01.Maven_Demo.*" />
 		</packages>
-
-
 	</test>
 </suite> 
